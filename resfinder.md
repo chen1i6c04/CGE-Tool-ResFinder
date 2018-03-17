@@ -4,8 +4,9 @@
 
 ## 步驟一：連結網路磁碟
 
- 1. 點擊桌面上的「家目錄」
- 2. 
+ 1. 進入桌面上的「家目錄」
+ 2. 進入後，選擇左側檔案目錄裡的「網路位置」
+ 3. 
 
 
 
@@ -37,6 +38,6 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUxMTgzNDYsMTE4ODE4NDgyLDExOD
-M3MDI1MTgsMTI5ODY1NzUyNSwxMzQ2OTk3MTVdfQ==
+eyJoaXN0b3J5IjpbMTMwMDA0NDYxNCwtMTQ0NTExODM0NiwxMT
+g4MTg0ODIsMTE4MzcwMjUxOCwxMjk4NjU3NTI1XX0=
 -->
