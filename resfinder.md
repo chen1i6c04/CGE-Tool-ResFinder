@@ -1,6 +1,6 @@
 # ResFinder 使用說明
 
-本說明介紹如何在 **Linux** 系統中使用 **ResFinder** 分析菌株的抗藥性基因
+本說明介紹如何在 Linux系統中使用 **ResFinder** 分析菌株的抗藥性基因
 
 ## 步驟一：連結網路磁碟
 
@@ -8,9 +8,7 @@
  2. 在左邊的側邊欄中，選擇「網路位置」
  3. 選擇 DS715，此時會出現要求輸入帳號與密碼的視窗
  4. 在使用者欄位輸入「centrallab」，密碼欄位輸入「24755118」
- 5. 連線成功
-
-
+ 5. 連線成功，可將要分析的檔案複製到Linux資料夾下
 
 ## 開啟終端機
 
@@ -40,8 +38,8 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Nzk2NjQwMSwtMTA4NzExMDM0LDExMD
-g1ODI0OTEsLTg1NzUwMTY3MywtMTQzNDUzMzg2OSwtMTQ0NTEx
-ODM0NiwxMTg4MTg0ODIsMTE4MzcwMjUxOCwxMjk4NjU3NTI1XX
-0=
+eyJoaXN0b3J5IjpbNTI0Njk4OTE5LDE5Nzc5NjY0MDEsLTEwOD
+cxMTAzNCwtODU3NTAxNjczLC0xNDM0NTMzODY5LC0xNDQ1MTE4
+MzQ2LDExODgxODQ4MiwxMTgzNzAyNTE4LDEyOTg2NTc1MjVdfQ
+==
 -->
