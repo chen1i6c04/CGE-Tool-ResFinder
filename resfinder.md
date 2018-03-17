@@ -13,8 +13,10 @@
 ```
 python3 resfinder_cmd.py [設定參數]
 ```
-設定參數：
+### 設定參數：
+
+ - -i 欲分析資料的路徑，資料可以是單一檔案或資料夾
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTMwNzE4OF19
+eyJoaXN0b3J5IjpbLTE3MDI3MTYxMV19
 -->
