@@ -9,7 +9,11 @@
  3. 選擇 **在此處開啟終端機**
 
 ## 啟動程式
-在終端
+在終端機中輸入
+```python
+python3 resfinder_cmd.py
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA0MjkxOThdfQ==
+eyJoaXN0b3J5IjpbMjA3MDI1MzY1MF19
 -->
