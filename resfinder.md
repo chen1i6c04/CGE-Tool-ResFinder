@@ -2,8 +2,8 @@
 
 本說明介紹如何在 **Linux** 系統中使用 **ResFinder** 分析菌株的抗藥性基因
 
-## 連結網路磁碟
-
+## 步驟一：連結網路磁碟
+點擊桌面上的「家目錄」
 
 
 ## 開啟終端機
@@ -34,5 +34,5 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTQ2NzAyOF19
+eyJoaXN0b3J5IjpbMTM0Njk5NzE1XX0=
 -->
