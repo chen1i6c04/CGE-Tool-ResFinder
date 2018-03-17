@@ -16,10 +16,10 @@ python3 resfinder_cmd.py [設定參數]
 設定參數：
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
-	-k ㄐㄧ
+	-k 基因的
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3NzU0MDU3LC0xNzI2MTc5MzAsMjkwND
+eyJoaXN0b3J5IjpbMTA4NjI3MDUxMCwyMTc3NTQwNTcsMjkwND
 c2OTQ5XX0=
 -->
