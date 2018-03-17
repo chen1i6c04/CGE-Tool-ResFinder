@@ -18,10 +18,10 @@
 
 ## 啟動程式
 ### 使用方式
+```
 在終端機中輸入
-```
 python3 resfinder_cmd.py [設定參數]
-```
+
 設定參數：
 -i 輸入文件的路徑
 -o 分析結果的儲存路徑
@@ -39,9 +39,8 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQxMTU1ODksMTQ5NDY3MDU4MCwtNj
-E4MzE3NDYyLDU2MDQ1MzY1OSwtMTM3MjAxODUzNywtMTIzNzk2
-NzEyOSwtODU3NTAxNjczLC0xNDM0NTMzODY5LC0xNDQ1MTE4Mz
-Q2LDExODgxODQ4MiwxMTgzNzAyNTE4LDEyOTg2NTc1MjVdfQ==
-
+eyJoaXN0b3J5IjpbMTA5MjU0OTIwMSwxNDk0NjcwNTgwLC02MT
+gzMTc0NjIsNTYwNDUzNjU5LC0xMzcyMDE4NTM3LC0xMjM3OTY3
+MTI5LC04NTc1MDE2NzMsLTE0MzQ1MzM4NjksLTE0NDUxMTgzND
+YsMTE4ODE4NDgyLDExODM3MDI1MTgsMTI5ODY1NzUyNV19
 -->
