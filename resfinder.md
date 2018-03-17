@@ -8,15 +8,16 @@
  2. 在資料夾的空白處點擊右鍵，開啟右鍵選單
  3. 選擇 **在此處開啟終端機**
 
-## 啟動程式
+## 使用方式
 在終端機中輸入
 ```
 python3 resfinder_cmd.py [設定參數]
 ```
 ### 設定參數：
 
- - -i	欲分析資料的路徑，資料可以是單一檔案或資料夾
+ - -i			欲分析資料的路徑，資料可以是單一檔案或資料夾
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNDc2OTQ5LC0xNzAyNzE2MTFdfQ==
+eyJoaXN0b3J5IjpbNTM5OTkyMTExLDI5MDQ3Njk0OV19
 -->
