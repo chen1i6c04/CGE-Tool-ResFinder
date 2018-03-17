@@ -7,6 +7,9 @@
  1. 進入程式所在的資料夾中
  2. 在資料夾的空白處點擊右鍵，開啟右鍵選單
  3. 選擇 **在此處開啟終端機**
+
+## 啟動程式
+在終端
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzY3NTUyMV19
+eyJoaXN0b3J5IjpbLTIwMjA0MjkxOThdfQ==
 -->
