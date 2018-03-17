@@ -2,7 +2,7 @@
 
 本說明介紹如何在 Linux系統中使用ResFinder分析菌株的抗藥性基因
 
-## 步驟一：連結網路磁碟
+## 連結網路磁碟
 
  1. 進入桌面上的「家目錄」
  2. 在左邊的側邊欄中，選擇「網路位置」
@@ -10,13 +10,13 @@
  4. 在使用者欄位輸入「centrallab」，密碼欄位輸入「24755118」
  5. 連線成功，可將要分析的檔案複製到Linux資料夾下
 
-## 步驟二：開啟終端機
+## 開啟終端機
 
  1. 進入程式所在的資料夾中
  2. 在資料夾的空白處點擊右鍵，開啟右鍵選單
  3. 選擇 **在此處開啟終端機**
 
-## 步驟三：啟動程式
+## 啟動程式
 ### 使用方式
 在終端機中輸入
 ```
@@ -39,8 +39,9 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NjQzOTIyLDE0OTQ2NzA1ODAsLTYxOD
-MxNzQ2Miw1NjA0NTM2NTksLTEzNzIwMTg1MzcsLTEyMzc5Njcx
-MjksLTg1NzUwMTY3MywtMTQzNDUzMzg2OSwtMTQ0NTExODM0Ni
-wxMTg4MTg0ODIsMTE4MzcwMjUxOCwxMjk4NjU3NTI1XX0=
+eyJoaXN0b3J5IjpbLTIwMzQxMTU1ODksMTQ5NDY3MDU4MCwtNj
+E4MzE3NDYyLDU2MDQ1MzY1OSwtMTM3MjAxODUzNywtMTIzNzk2
+NzEyOSwtODU3NTAxNjczLC0xNDM0NTMzODY5LC0xNDQ1MTE4Mz
+Q2LDExODgxODQ4MiwxMTgzNzAyNTE4LDEyOTg2NTc1MjVdfQ==
+
 -->
