@@ -15,9 +15,6 @@ python3 resfinder_cmd.py [設定參數]
 
 設定參數：
 	必要參數
-	
-	 - List item
-
 	i 輸入文件的路徑
 	o 分析結果的儲存路徑
 	k 最小相似百分比，預設為95
@@ -25,6 +22,6 @@ python3 resfinder_cmd.py [設定參數]
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzYzMTE3NCwtMjAyNzU5MDQwMCwxMD
-g2MjcwNTEwLDI5MDQ3Njk0OV19
+eyJoaXN0b3J5IjpbNzAzMjYwMzU0LC00NjM2MzExNzQsMTA4Nj
+I3MDUxMCwyOTA0NzY5NDldfQ==
 -->
