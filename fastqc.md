@@ -17,7 +17,10 @@ python3 fastqc.py [設定參數]
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
 ``` 
-
+### 範例
+```
+python3 fastqc.py -i test.fa -o outfolder
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk1MTYyMjNdfQ==
+eyJoaXN0b3J5IjpbMzI4Njk1MjRdfQ==
 -->
