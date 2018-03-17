@@ -42,14 +42,14 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 ## 分析結果
 
  1. 所有檔案的分析結果會彙整為文件``Total_Report.csv``，儲存在輸出路徑的資料夾下
- 2. 在
+ 2. 在輸出資料
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODExMzE4LDc3MDMzNjc4NiwtMjA3Mz
-M0OTk4NywxMzAzMDQzNjAsMzQyODY3NTI3LDE0OTQ2NzA1ODAs
+eyJoaXN0b3J5IjpbNDQ0MzcyMDU0LC0zMjgxMTMxOCw3NzAzMz
+Y3ODYsLTIwNzMzNDk5ODcsMTMwMzA0MzYwLDE0OTQ2NzA1ODAs
 LTYxODMxNzQ2Miw1NjA0NTM2NTksLTEzNzIwMTg1MzcsLTEyMz
 c5NjcxMjksLTg1NzUwMTY3MywtMTQzNDUzMzg2OSwtMTQ0NTEx
 ODM0NiwxMTg4MTg0ODIsMTE4MzcwMjUxOCwxMjk4NjU3NTI1XX
