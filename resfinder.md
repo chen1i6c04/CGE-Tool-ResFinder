@@ -16,10 +16,11 @@ python3 resfinder_cmd.py [設定參數]
 設定參數：
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
-	-k 基因的相似百分比，預設為95
+	-k 最小相似百分比，預設為95
+	-l 重疊的最小長度
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDQ3NTExMywxMDg2MjcwNTEwLDI5MD
-Q3Njk0OV19
+eyJoaXN0b3J5IjpbLTE3MTI2MjI1NjgsMTA4NjI3MDUxMCwyOT
+A0NzY5NDldfQ==
 -->
