@@ -21,9 +21,11 @@ python3 resfinder_cmd.py [設定參數]
 ``` 
 ### 範例
 ```
-python3 resfinder_cmd.py -i path/of/file -o path/of/result
+python3 resfinder_cmd.py -i test.fa -o outfolder
 ```
+### 注意事項
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM4MjQxODcsLTE0MzU5MDMyMTQsLT
-M4Nzc5MzU0MV19
+eyJoaXN0b3J5IjpbNjczOTgzMDMxLC0xNDM1OTAzMjE0LC0zOD
+c3OTM1NDFdfQ==
 -->
