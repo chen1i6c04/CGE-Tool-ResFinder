@@ -21,7 +21,8 @@ python3 resfinder_cmd.py [設定參數]
 ``` 
 範例
 ```
-python3 resfinder_cmd.py -i 
+python3 resfinder_cmd.py -i path
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODM2MjkwMywtMzg3NzkzNTQxXX0=
+eyJoaXN0b3J5IjpbLTE0MzU5MDMyMTQsMTg2ODM2MjkwMywtMz
+g3NzkzNTQxXX0=
 -->
