@@ -17,11 +17,11 @@ python3 resfinder_cmd.py [設定參數]
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
 	-m 依照分析檔案格式輸入 [1, 2, 3, 4]
-		1 pair-end reads, interleaved
-		2 pair-end reads, seperated
-		3 single-end reads
-		4 assembly
+	   1 pair-end reads, interleaved
+	   2 pair-end reads, seperated
+	   3 single-end reads
+	   4 assembly
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE5MTA2MTNdfQ==
+eyJoaXN0b3J5IjpbNzk1NDU5MTY1XX0=
 -->
