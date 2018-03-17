@@ -1,0 +1,12 @@
+# ResFinder 使用手冊
+
+本手冊介紹如何在 **Linux** 系統中使用 **ResFinder** 分析菌株的抗藥性基因
+
+## 開啟終端機
+
+ 1. 進入程式所在的資料夾中
+ 2. 在資料夾的空白處點擊右鍵，開啟右鍵選單
+ 3. 選擇 **在此處開啟終端機**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI4NzY3NTUyMV19
+-->
