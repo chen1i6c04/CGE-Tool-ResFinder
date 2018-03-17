@@ -30,6 +30,5 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzE5NzI5MCwxODQyODM4MDIxLDUyNj
-c3NzU3OCwtMTQzNTkwMzIxNCwtMzg3NzkzNTQxXX0=
+eyJoaXN0b3J5IjpbMTY2NzE5NzI5MF19
 -->
