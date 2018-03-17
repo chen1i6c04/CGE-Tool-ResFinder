@@ -4,9 +4,8 @@
 
 ## 步驟一：連結網路磁碟
 
- 1. List item
+ 1. List i
 
-點擊桌面上的「家目錄」
 
 
 ## 開啟終端機
@@ -37,5 +36,6 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODY1NzUyNSwxMzQ2OTk3MTVdfQ==
+eyJoaXN0b3J5IjpbMTE4MzcwMjUxOCwxMjk4NjU3NTI1LDEzND
+Y5OTcxNV19
 -->
