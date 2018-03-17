@@ -6,7 +6,7 @@
 
  1. 進入桌面上的「家目錄」
  2. 在左邊的側邊欄中，選擇「網路位置」
- 3. 選擇 DS715，此時會出現ㄧㄠ
+ 3. 選擇 DS715，此時會出現求
  4. 
 
 
@@ -39,7 +39,7 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTExODcxMCwxNzM2MjM5MDUzLDE2Mz
-Y3MDIwNTQsLTE0NDUxMTgzNDYsMTE4ODE4NDgyLDExODM3MDI1
-MTgsMTI5ODY1NzUyNV19
+eyJoaXN0b3J5IjpbLTE0MzQ1MzM4NjksMTM2NTExODcxMCwxNz
+M2MjM5MDUzLC0xNDQ1MTE4MzQ2LDExODgxODQ4MiwxMTgzNzAy
+NTE4LDEyOTg2NTc1MjVdfQ==
 -->
