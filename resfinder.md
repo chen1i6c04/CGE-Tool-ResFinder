@@ -12,12 +12,11 @@
 在終端機中輸入
 ```
 python3 resfinder_cmd.py [設定參數]
-```
-### 設定參數：
 
- - -i			欲分析資料的路徑，資料可以是單一檔案或資料夾
- - 
+設定參數：
+
+``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5OTkyMTExLDI5MDQ3Njk0OV19
+eyJoaXN0b3J5IjpbMTM0MzQ3MzM5MSwyOTA0NzY5NDldfQ==
 -->
