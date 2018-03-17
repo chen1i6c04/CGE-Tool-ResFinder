@@ -15,9 +15,11 @@ python3 resfinder_cmd.py [設定參數]
 
 設定參數：
 	-i 輸入文件的路徑
+	-o 分析結果的儲存路徑
+	-k ㄐㄧ
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYxNzkzMCwxMzYyMTE3MjE3LDI5MD
-Q3Njk0OV19
+eyJoaXN0b3J5IjpbMjE3NzU0MDU3LC0xNzI2MTc5MzAsMjkwND
+c2OTQ5XX0=
 -->
