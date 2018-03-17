@@ -8,16 +8,16 @@
  2. 在資料夾的空白處點擊右鍵，開啟右鍵選單
  3. 選擇 **在此處開啟終端機**
 
-## 使用方式
+## 起ㄉㄨㄥ
 在終端機中輸入
 ```
 python3 resfinder_cmd.py [設定參數]
 
 設定參數：
-	-i 輸入
+	-i 輸入文件的路徑
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU0NjE4ODQsLTExNDQ5Nzc4MjEsMj
-kwNDc2OTQ5XX0=
+eyJoaXN0b3J5IjpbMTM2MjExNzIxNywtMTgxNTQ2MTg4NCwyOT
+A0NzY5NDldfQ==
 -->
