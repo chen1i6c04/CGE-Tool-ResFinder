@@ -8,7 +8,7 @@
  2. 在左邊的側邊欄中，選擇「網路位置」
  3. 選擇 DS715，此時會出現要求輸入帳號與密碼的視窗
  4. 在使用者欄位輸入「centrallab」，密碼欄位輸入「24755118」
- 5. 連
+ 5. 連線成功
 
 
 
@@ -40,8 +40,8 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODcxMTAzNCwxMTA4NTgyNDkxLC04NT
-c1MDE2NzMsMTEyODExODg3OSwtMTQzNDUzMzg2OSwtMTQ0NTEx
+eyJoaXN0b3J5IjpbMTk3Nzk2NjQwMSwtMTA4NzExMDM0LDExMD
+g1ODI0OTEsLTg1NzUwMTY3MywtMTQzNDUzMzg2OSwtMTQ0NTEx
 ODM0NiwxMTg4MTg0ODIsMTE4MzcwMjUxOCwxMjk4NjU3NTI1XX
 0=
 -->
