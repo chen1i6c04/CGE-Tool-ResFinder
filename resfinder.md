@@ -6,7 +6,7 @@
 
  1. 進入桌面上的「家目錄」
  2. 在左邊的側邊欄中，選擇「網路位置」
- 3. 選擇 DS715，此時會出現要求輸入障
+ 3. 選擇 DS715，此時會出現要求輸入帳號與ㄇ
  4. 
 
 
@@ -39,7 +39,8 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODExODg3OSwtNzYyMTE5MjUzLC0xND
-M0NTMzODY5LDEzNjUxMTg3MTAsLTE0NDUxMTgzNDYsMTE4ODE4
-NDgyLDExODM3MDI1MTgsMTI5ODY1NzUyNV19
+eyJoaXN0b3J5IjpbLTg1NzUwMTY3MywxMTI4MTE4ODc5LC03Nj
+IxMTkyNTMsLTE0MzQ1MzM4NjksMTM2NTExODcxMCwtMTQ0NTEx
+ODM0NiwxMTg4MTg0ODIsMTE4MzcwMjUxOCwxMjk4NjU3NTI1XX
+0=
 -->
