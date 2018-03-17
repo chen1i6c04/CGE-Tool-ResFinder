@@ -14,9 +14,9 @@
 python3 resfinder_cmd.py [設定參數]
 
 設定參數：
-
+	-i 書
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzQ3MzM5MSwyOTA0NzY5NDldfQ==
+eyJoaXN0b3J5IjpbLTExNDQ5Nzc4MjEsMjkwNDc2OTQ5XX0=
 -->
