@@ -5,7 +5,7 @@
 ## 步驟一：連結網路磁碟
 
  1. 點擊桌面上的「家目錄」
-
+ 2. 
 
 
 
@@ -37,6 +37,6 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODE4NDgyLDExODM3MDI1MTgsMTI5OD
-Y1NzUyNSwxMzQ2OTk3MTVdfQ==
+eyJoaXN0b3J5IjpbLTE0NDUxMTgzNDYsMTE4ODE4NDgyLDExOD
+M3MDI1MTgsMTI5ODY1NzUyNSwxMzQ2OTk3MTVdfQ==
 -->
