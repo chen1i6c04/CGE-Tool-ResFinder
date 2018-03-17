@@ -19,8 +19,12 @@ python3 fastqc.py [設定參數]
 ``` 
 ### 範例
 ```
-python3 fastqc.py -i test.fa -o outfolder
+python3 fastqc.py -i folder_of_file -o outfolder
 ```
+### 注意事項
+
+請將 fastq 檔案彙整為一個**資料夾**，輸入**資料夾路徑**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4Njk1MjRdfQ==
+eyJoaXN0b3J5IjpbNjU4ODg5OTU4XX0=
 -->
