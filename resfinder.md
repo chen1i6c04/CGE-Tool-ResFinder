@@ -39,16 +39,19 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
  1. 若要分析的檔案有兩個以上，請將檔案彙整為一個**資料夾**，在 ``-i`` 輸入**資料夾路徑**
  2. 若無設定參數 k 和 l 的值，則使用預設的數字為設定值
 
-## 檢視分析結果
+## 分析結果
 
-所有檔案的分析結果會彙整為文件``Total_Report.csv``
+ 1. 所有檔案的分析結果會彙整為文件``Total_Report.csv``，儲存在輸出路徑的資料夾下
+ 2. 要檢視
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzA0MzYwLDM0Mjg2NzUyNywxNDA0Mz
-kwNTU5LC0yMTg5MDc5MDQsNTI5NTEyODA5LDE0OTQ2NzA1ODAs
-LTYxODMxNzQ2Miw1NjA0NTM2NTksLTEzNzIwMTg1MzcsLTEyMz
-c5NjcxMjksLTg1NzUwMTY3MywtMTQzNDUzMzg2OSwtMTQ0NTEx
-ODM0NiwxMTg4MTg0ODIsMTE4MzcwMjUxOCwxMjk4NjU3NTI1XX
-0=
+eyJoaXN0b3J5IjpbLTIwNzMzNDk5ODcsMTMwMzA0MzYwLDM0Mj
+g2NzUyNywxNDA0MzkwNTU5LC0yMTg5MDc5MDQsMTQ5NDY3MDU4
+MCwtNjE4MzE3NDYyLDU2MDQ1MzY1OSwtMTM3MjAxODUzNywtMT
+IzNzk2NzEyOSwtODU3NTAxNjczLC0xNDM0NTMzODY5LC0xNDQ1
+MTE4MzQ2LDExODgxODQ4MiwxMTgzNzAyNTE4LDEyOTg2NTc1Mj
+VdfQ==
 -->
