@@ -30,6 +30,7 @@ python3 resfinder_cmd.py [參數]
 	-k 最小相似百分比，預設為95
 	-l 最小重疊長度百分比，預設為60
 ```
+
 ### 範例
 ```
 python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
@@ -48,10 +49,10 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE3MjIyNTMsLTIxMDEyMDk5NzksMj
-ExMTgxMDMzNCwtMTE2MjIwODc5MSw0NDQzNzIwNTQsLTMyODEx
-MzE4LDc3MDMzNjc4NiwxNDk0NjcwNTgwLC02MTgzMTc0NjIsNT
-YwNDUzNjU5LC0xMzcyMDE4NTM3LC0xMjM3OTY3MTI5LC04NTc1
-MDE2NzMsLTE0MzQ1MzM4NjksLTE0NDUxMTgzNDYsMTE4ODE4ND
-gyLDExODM3MDI1MTgsMTI5ODY1NzUyNV19
+eyJoaXN0b3J5IjpbLTIxMDEyMDk5NzksLTE1MDE3MjIyNTMsLT
+IxMDEyMDk5NzksLTExNjIyMDg3OTEsNDQ0MzcyMDU0LC0zMjgx
+MTMxOCw3NzAzMzY3ODYsMTQ5NDY3MDU4MCwtNjE4MzE3NDYyLD
+U2MDQ1MzY1OSwtMTM3MjAxODUzNywtMTIzNzk2NzEyOSwtODU3
+NTAxNjczLC0xNDM0NTMzODY5LC0xNDQ1MTE4MzQ2LDExODgxOD
+Q4MiwxMTgzNzAyNTE4LDEyOTg2NTc1MjVdfQ==
 -->
