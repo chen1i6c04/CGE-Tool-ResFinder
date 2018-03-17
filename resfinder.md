@@ -17,7 +17,7 @@
  3. 選擇 **在此處開啟終端機**
 
 ## 步驟三：啟動程式
-### 使用
+### 使用方式
 在終端機中輸入
 ```
 python3 resfinder_cmd.py [設定參數]
@@ -39,8 +39,8 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODMxNzQ2MiwtNDEyMzEzMjMzLDU2MD
-Q1MzY1OSwtMTM3MjAxODUzNywtMTIzNzk2NzEyOSwtODU3NTAx
-NjczLC0xNDM0NTMzODY5LC0xNDQ1MTE4MzQ2LDExODgxODQ4Mi
-wxMTgzNzAyNTE4LDEyOTg2NTc1MjVdfQ==
+eyJoaXN0b3J5IjpbMTQ5NDY3MDU4MCwtNjE4MzE3NDYyLC00MT
+IzMTMyMzMsNTYwNDUzNjU5LC0xMzcyMDE4NTM3LC0xMjM3OTY3
+MTI5LC04NTc1MDE2NzMsLTE0MzQ1MzM4NjksLTE0NDUxMTgzND
+YsMTE4ODE4NDgyLDExODM3MDI1MTgsMTI5ODY1NzUyNV19
 -->
