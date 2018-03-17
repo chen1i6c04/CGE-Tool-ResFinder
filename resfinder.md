@@ -21,11 +21,15 @@ python3 resfinder_cmd.py [設定參數]
 ``` 
 ### 範例
 ```
-python3 resfinder_cmd.py -i test.fa -o outfolder
+python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 ```
 ### 注意事項
-若要分析的檔案有兩個以上，請將檔案彙整為一個**資料夾**，輸入**資料夾路徑**
+
+ 1. 若要分析的檔案有兩個以上，請將檔案彙整為一個**資料夾**，輸入**資料夾路徑**
+ 2. 參數 k 和 l
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzIzNzgxNiwtMTQzNTkwMzIxNCwtMz
-g3NzkzNTQxXX0=
+eyJoaXN0b3J5IjpbLTE1NTUxMDgzNjYsLTE0MzU5MDMyMTQsLT
+M4Nzc5MzU0MV19
 -->
