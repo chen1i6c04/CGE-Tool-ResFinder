@@ -10,10 +10,11 @@
 
 ## 啟動程式
 在終端機中輸入
-```python
-python3 resfinder_cmd.py
 ```
+python3 resfinder_cmd.py [設定參數]
+```
+設定參數：
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDI1MzY1MF19
+eyJoaXN0b3J5IjpbLTg2MTMwNzE4OF19
 -->
