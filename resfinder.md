@@ -26,10 +26,10 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 ### 注意事項
 
  1. 若要分析的檔案有兩個以上，請將檔案彙整為一個**資料夾**，輸入**資料夾路徑**
- 2. 若無設定參數 k 和 l的職 ，
+ 2. 若無設定參數 k 和 l的值 ，
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2Nzc3NTc4LC0zODI1ODc5MDcsLTE0Mz
-U5MDMyMTQsLTM4Nzc5MzU0MV19
+eyJoaXN0b3J5IjpbMTg0MjgzODAyMSw1MjY3Nzc1NzgsLTM4Mj
+U4NzkwNywtMTQzNTkwMzIxNCwtMzg3NzkzNTQxXX0=
 -->
