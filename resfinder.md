@@ -16,13 +16,11 @@ python3 resfinder_cmd.py [設定參數]
 設定參數：
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
-	
-=== 非必要 ===
 	-k 最小相似百分比，預設為95
 	-l 最小重疊長度百分比，預設為60
 
 ``` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAxMTA1MDEsLTM4Nzc5MzU0MV19
+eyJoaXN0b3J5IjpbLTE1MTcxMDAzMywtMzg3NzkzNTQxXX0=
 -->
