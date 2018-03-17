@@ -1,6 +1,6 @@
 # ResFinder 使用說明
 
-本說明介紹如何在 Linux系統中使用 ResFinder分析菌株的抗藥性基因
+本說明介紹如何在 Linux系統中使用ResFinder分析菌株的抗藥性基因
 
 ## 步驟一：連結網路磁碟
 
@@ -38,8 +38,8 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIwMTg1MzcsLTEyMzc5NjcxMjksNT
-I0Njk4OTE5LDE5Nzc5NjY0MDEsLTg1NzUwMTY3MywtMTQzNDUz
-Mzg2OSwtMTQ0NTExODM0NiwxMTg4MTg0ODIsMTE4MzcwMjUxOC
-wxMjk4NjU3NTI1XX0=
+eyJoaXN0b3J5IjpbNTYwNDUzNjU5LC0xMzcyMDE4NTM3LC0xMj
+M3OTY3MTI5LDUyNDY5ODkxOSwtODU3NTAxNjczLC0xNDM0NTMz
+ODY5LC0xNDQ1MTE4MzQ2LDExODgxODQ4MiwxMTgzNzAyNTE4LD
+EyOTg2NTc1MjVdfQ==
 -->
