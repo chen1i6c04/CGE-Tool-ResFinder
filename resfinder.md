@@ -42,7 +42,7 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
  - 複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
  - 終端機不接受快捷鍵指令，請使用滑鼠貼上
 
-## 分析結果
+## 分析報告
 
  1. 所有檔案的分析結果會彙整為文件``Total_Report.csv``，儲存在輸出的資料夾下
  2. 在輸出資料夾裡，有以各個檔案為名的資料夾，內有詳細的結果報告
@@ -51,11 +51,11 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2MTkyOTUwLDY5OTcwMzc0NywtNDg1Mz
-U0MjEsMjAxNzI3MTY0OCwtMTQ0NzkzMDE3MSwtMTUwMTcyMjI1
-MywtMjEwMTIwOTk3OSwtMTE2MjIwODc5MSw0NDQzNzIwNTQsLT
-MyODExMzE4LDc3MDMzNjc4NiwxNDk0NjcwNTgwLC02MTgzMTc0
-NjIsNTYwNDUzNjU5LC0xMzcyMDE4NTM3LC0xMjM3OTY3MTI5LC
-04NTc1MDE2NzMsLTE0MzQ1MzM4NjksLTE0NDUxMTgzNDYsMTE4
-ODE4NDgyLDExODM3MDI1MTgsMTI5ODY1NzUyNV19
+eyJoaXN0b3J5IjpbLTEwMjIzNDk2NTUsMjQ2MTkyOTUwLC00OD
+UzNTQyMSwyMDE3MjcxNjQ4LC0xNDQ3OTMwMTcxLC0xNTAxNzIy
+MjUzLC0yMTAxMjA5OTc5LC0xMTYyMjA4NzkxLDQ0NDM3MjA1NC
+wtMzI4MTEzMTgsNzcwMzM2Nzg2LDE0OTQ2NzA1ODAsLTYxODMx
+NzQ2Miw1NjA0NTM2NTksLTEzNzIwMTg1MzcsLTEyMzc5NjcxMj
+ksLTg1NzUwMTY3MywtMTQzNDUzMzg2OSwtMTQ0NTExODM0Niwx
+MTg4MTg0ODIsMTE4MzcwMjUxOCwxMjk4NjU3NTI1XX0=
 -->
