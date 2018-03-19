@@ -23,7 +23,9 @@ python3 resfinder_cmd.py [參數]
 	   4 assembly
 ```
 ### 範例
-
+```
+python3 seqsero_cmd.py -i test.fa -o outfolder -m 4
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Nzg5OTQyNSw3OTU0NTkxNjVdfQ==
+eyJoaXN0b3J5IjpbMTk0MTA0ODU4MSw3OTU0NTkxNjVdfQ==
 -->
