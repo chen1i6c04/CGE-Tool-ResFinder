@@ -11,9 +11,9 @@
 ## 啟動程式
 在終端機中輸入
 ```
-python3 resfinder_cmd.py [設定參數]
+python3 resfinder_cmd.py [參數]
 
-設定參數：
+參數：
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
 	-m 依照分析檔案格式輸入 [1, 2, 3, 4]
@@ -22,6 +22,8 @@ python3 resfinder_cmd.py [設定參數]
 	   3 single-end reads
 	   4 assembly
 ```
+### 範例
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTA5MzE2MSw3OTU0NTkxNjVdfQ==
+eyJoaXN0b3J5IjpbMjA2Nzg5OTQyNSw3OTU0NTkxNjVdfQ==
 -->
