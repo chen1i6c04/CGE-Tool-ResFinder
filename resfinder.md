@@ -5,7 +5,7 @@
 ## 連結網路磁碟
 
  1. 進入桌面上的「家目錄」
- 2. 在左邊的側邊欄中，選擇「網路位置」
+ 2. 在左邊的側邊欄中，選擇「瀏覽網路」
  3. 選擇 DS715，此時會出現要求輸入帳號與密碼的視窗
  4. 在使用者欄位輸入「centrallab」，密碼欄位輸入「24755118」
  5. 連線成功，可將要分析的檔案複製到Linux資料夾下
@@ -51,7 +51,7 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTAzMjQzMSwtMTAyMjM0OTY1NSwyND
+eyJoaXN0b3J5IjpbLTMzMzUyOTA1OCwtMTAyMjM0OTY1NSwyND
 YxOTI5NTAsLTQ4NTM1NDIxLDIwMTcyNzE2NDgsLTE0NDc5MzAx
 NzEsLTE1MDE3MjIyNTMsLTIxMDEyMDk5NzksLTExNjIyMDg3OT
 EsNDQ0MzcyMDU0LC0zMjgxMTMxOCw3NzAzMzY3ODYsMTQ5NDY3
