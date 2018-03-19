@@ -26,6 +26,11 @@ python3 resfinder_cmd.py [參數]
 ```
 python3 seqsero_cmd.py -i test.fa -o outfolder -m 4
 ```
+### 注意事項
+
+-   若要分析的檔案有兩個以上，請將檔案彙整為一個**資料夾**，在  `-i`  輸入**資料夾路徑**
+-   複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
+-   終端機不接受快捷鍵指令，請使用滑鼠貼上
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTA0ODU4MSw3OTU0NTkxNjVdfQ==
+eyJoaXN0b3J5IjpbMjAxMDE2NzAwOSw3OTU0NTkxNjVdfQ==
 -->
