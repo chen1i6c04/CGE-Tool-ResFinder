@@ -38,7 +38,7 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 ### 注意事項
 
  - 若要分析的檔案有兩個以上，請將檔案彙整為一個**資料夾**，在 ``-i`` 輸入**資料夾路徑**
- - 若無設定參數 k 和 l 的值，則使用預設的數字為設定值
+ - 若無設定參數 ``-k`` 和 ``-l`` 的值，則使用預設的數字為設定值
  - 複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
  - 終端機不接受快捷鍵指令，請使用滑鼠貼上
 
@@ -51,12 +51,12 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzUyOTA1OCwtMTAyMjM0OTY1NSwyND
-YxOTI5NTAsLTQ4NTM1NDIxLDIwMTcyNzE2NDgsLTE0NDc5MzAx
-NzEsLTE1MDE3MjIyNTMsLTIxMDEyMDk5NzksLTExNjIyMDg3OT
-EsNDQ0MzcyMDU0LC0zMjgxMTMxOCw3NzAzMzY3ODYsMTQ5NDY3
-MDU4MCwtNjE4MzE3NDYyLDU2MDQ1MzY1OSwtMTM3MjAxODUzNy
-wtMTIzNzk2NzEyOSwtODU3NTAxNjczLC0xNDM0NTMzODY5LC0x
-NDQ1MTE4MzQ2LDExODgxODQ4MiwxMTgzNzAyNTE4LDEyOTg2NT
-c1MjVdfQ==
+eyJoaXN0b3J5IjpbODc1NTQ0NDMyLC0xMDIyMzQ5NjU1LDI0Nj
+E5Mjk1MCwtNDg1MzU0MjEsMjAxNzI3MTY0OCwtMTQ0NzkzMDE3
+MSwtMTUwMTcyMjI1MywtMjEwMTIwOTk3OSwtMTE2MjIwODc5MS
+w0NDQzNzIwNTQsLTMyODExMzE4LDc3MDMzNjc4NiwxNDk0Njcw
+NTgwLC02MTgzMTc0NjIsNTYwNDUzNjU5LC0xMzcyMDE4NTM3LC
+0xMjM3OTY3MTI5LC04NTc1MDE2NzMsLTE0MzQ1MzM4NjksLTE0
+NDUxMTgzNDYsMTE4ODE4NDgyLDExODM3MDI1MTgsMTI5ODY1Nz
+UyNV19
 -->
