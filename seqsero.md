@@ -23,5 +23,5 @@ python3 resfinder_cmd.py [設定參數]
 	   4 assembly
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NDU5MTY1XX0=
+eyJoaXN0b3J5IjpbMTY3NTA5MzE2MSw3OTU0NTkxNjVdfQ==
 -->
