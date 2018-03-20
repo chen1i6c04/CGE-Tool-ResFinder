@@ -4,9 +4,8 @@
 
 ## 開啟終端機
 
- 1. 進入程式所在的資料夾中
- 2. 在資料夾的空白處點擊右鍵，開啟右鍵選單
- 3. 選擇 **在此處開啟終端機**
+ 1. 在資料夾的空白處點擊右鍵，開啟右鍵選單
+ 2. 選擇 **在此處開啟終端機**
 
 ## 啟動程式
 
@@ -31,5 +30,5 @@ fastqc_cmd.py -i folder_of_file -o outfolder
 請將 fastq 檔案彙整為一個**資料夾**，輸入**資料夾路徑**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzY4MTMzMCw2NTg4ODk5NThdfQ==
+eyJoaXN0b3J5IjpbMTM3NjIwNzQyMyw2NTg4ODk5NThdfQ==
 -->
