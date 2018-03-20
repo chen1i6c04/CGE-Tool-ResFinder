@@ -8,8 +8,7 @@
  2. 在資料夾的空白處點擊右鍵，開啟右鍵選單
  3. 選擇 **在此處開啟終端機**
 
-## 啟動程式
-### 使用方式
+## 使用方式
 ```
 在終端機中輸入：
 python3 resfinder_cmd.py [參數]
@@ -25,7 +24,7 @@ python3 resfinder_cmd.py [參數]
 
 ### 範例
 ```
-python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
+python3 resfinder_cmd.py -i infolder -o outfolder -k 95 -l 60
 ```
 ### 注意事項
 
@@ -43,7 +42,7 @@ python3 resfinder_cmd.py -i test.fa -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE3MzUwNTcsMjEyNDU1NDE4NCwtMT
+eyJoaXN0b3J5IjpbLTEwMzI1NzUxMDgsMjEyNDU1NDE4NCwtMT
 AyMjM0OTY1NSwyNDYxOTI5NTAsLTQ4NTM1NDIxLDIwMTcyNzE2
 NDgsLTE0NDc5MzAxNzEsLTE1MDE3MjIyNTMsLTIxMDEyMDk5Nz
 ksLTExNjIyMDg3OTEsNDQ0MzcyMDU0LC0zMjgxMTMxOCw3NzAz
