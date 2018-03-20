@@ -15,7 +15,7 @@
 fastqc_cmd.py [設定參數]
 
 設定參數：
-	-i 輸入文件的路徑
+	-i 檔案路徑
 	-o 分析結果的儲存路徑
 ``` 
 
@@ -27,8 +27,7 @@ fastqc_cmd.py -i folder_of_file -o outfolder
 
 ### 注意事項
 
-請將 檔案彙整為一個**資料夾**，輸入**資料夾路徑**
-
+請將要分析的檔案放在同一個資料夾下，在參數``-i``輸入**資料夾路徑**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTMwMTY4ODYsNjU4ODg5OTU4XX0=
+eyJoaXN0b3J5IjpbNjEyMjgyMDg4LDY1ODg4OTk1OF19
 -->
