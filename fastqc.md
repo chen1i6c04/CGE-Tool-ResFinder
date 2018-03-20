@@ -21,13 +21,15 @@ fastqc_cmd.py [設定參數]
 ``` 
 
 ### 範例
+
 ```
 fastqc_cmd.py -i folder_of_file -o outfolder
 ```
+
 ### 注意事項
 
 請將 fastq 檔案彙整為一個**資料夾**，輸入**資料夾路徑**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcxMDEzMzQsNjU4ODg5OTU4XX0=
+eyJoaXN0b3J5IjpbLTg5NzY4MTMzMCw2NTg4ODk5NThdfQ==
 -->
