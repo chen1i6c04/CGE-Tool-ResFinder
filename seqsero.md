@@ -16,7 +16,7 @@ seqsero_cmd.py [參數]
 參數：
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
-	-m 依照分析檔案格式輸入 [1, 2, 3, 4]
+	-m 依照要分析檔案的格式輸入 [1, 2, 3, 4]
 	   1 pair-end reads, interleaved
 	   2 pair-end reads, seperated
 	   3 single-end reads
@@ -32,6 +32,6 @@ seqsero_cmd.py -i infolder -o outfolder -m 4
 -   複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
 -   終端機不接受快捷鍵指令，請使用滑鼠貼上
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgzMjk1MjAsLTE5MTMxODQ0MzcsNz
+eyJoaXN0b3J5IjpbLTExNDY2Mjg0MjUsLTE5MTMxODQ0MzcsNz
 k1NDU5MTY1XX0=
 -->
