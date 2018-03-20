@@ -11,7 +11,7 @@
 ## 啟動程式
 在終端機中輸入
 ```
-python3 resfindseqsero_cmd.py [參數]
+seqsero_cmd.py [參數]
 
 參數：
 	-i 輸入文件的路徑
@@ -32,6 +32,6 @@ seqsero_cmd.py -i infolder -o outfolder -m 4
 -   複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
 -   終端機不接受快捷鍵指令，請使用滑鼠貼上
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjUxMzQ2MCwtMTkxMzE4NDQzNyw3OT
-U0NTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzgzMjk1MjAsLTE5MTMxODQ0MzcsNz
+k1NDU5MTY1XX0=
 -->
