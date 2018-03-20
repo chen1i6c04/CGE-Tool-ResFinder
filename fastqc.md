@@ -27,8 +27,8 @@ fastqc_cmd.py -i folder_of_file -o outfolder
 
 ### 注意事項
 
-請將 fastq 檔案彙整為一個**資料夾**，輸入**資料夾路徑**
+請將 檔案彙整為一個**資料夾**，輸入**資料夾路徑**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjIwNzQyMyw2NTg4ODk5NThdfQ==
+eyJoaXN0b3J5IjpbLTIxMTMwMTY4ODYsNjU4ODg5OTU4XX0=
 -->
