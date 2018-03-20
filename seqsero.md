@@ -24,7 +24,7 @@ python3 resfindseqsero_cmd.py [參數]
 ```
 ### 範例
 ```
-python3 seqsero_cmd.py -i test.fa -o outfolder -m 4
+seqsero_cmd.py -i infolder -o outfolder -m 4
 ```
 ### 注意事項
 
@@ -32,6 +32,6 @@ python3 seqsero_cmd.py -i test.fa -o outfolder -m 4
 -   複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
 -   終端機不接受快捷鍵指令，請使用滑鼠貼上
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg1MzAzNTMsLTE5MTMxODQ0MzcsNz
-k1NDU5MTY1XX0=
+eyJoaXN0b3J5IjpbLTg4MjUxMzQ2MCwtMTkxMzE4NDQzNyw3OT
+U0NTkxNjVdfQ==
 -->
