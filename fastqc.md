@@ -9,7 +9,9 @@
  3. 選擇 **在此處開啟終端機**
 
 ## 啟動程式
+
 在終端機中輸入
+
 ```
 fastqc_cmd.py [設定參數]
 
@@ -17,14 +19,15 @@ fastqc_cmd.py [設定參數]
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
 ``` 
+
 ### 範例
 ```
-python3 fastqc.py -i folder_of_file -o outfolder
+fastqc_cmd.py -i folder_of_file -o outfolder
 ```
 ### 注意事項
 
 請將 fastq 檔案彙整為一個**資料夾**，輸入**資料夾路徑**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU5OTkwNjIsNjU4ODg5OTU4XX0=
+eyJoaXN0b3J5IjpbLTE4MDcxMDEzMzQsNjU4ODg5OTU4XX0=
 -->
