@@ -23,10 +23,10 @@ python3 resfinder_cmd.py [參數]
 
 ### 範例
 ```
-python3 resfinder_cmd.py -i file.fa -o outfolder
+resfinder_cmd.py -i file.fa -o outfolder
 ```
 ```
-python3 resfinder_cmd.py -i infolder -o outfolder -k 95 -l 60
+resfinder_cmd.py -i infolder -o outfolder -k 95 -l 60
 ```
 ### 注意事項
 
@@ -44,7 +44,7 @@ python3 resfinder_cmd.py -i infolder -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ0NTI5NywyMTI0NTU0MTg0LC0xMD
+eyJoaXN0b3J5IjpbLTQzMjUyNDIyNywyMTI0NTU0MTg0LC0xMD
 IyMzQ5NjU1LDI0NjE5Mjk1MCwtNDg1MzU0MjEsMjAxNzI3MTY0
 OCwtMTQ0NzkzMDE3MSwtMTUwMTcyMjI1MywtMjEwMTIwOTk3OS
 wtMTE2MjIwODc5MSw0NDQzNzIwNTQsLTMyODExMzE4LDc3MDMz
