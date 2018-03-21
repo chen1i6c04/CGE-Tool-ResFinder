@@ -24,8 +24,8 @@ kmerfinder_cmd.py -i infolder -o outfolder
 
 ### 注意事項
 
- - 請將檔案彙整為一個**資料夾**，在 ``-i`` 輸入**資料夾路徑**
- -  - 複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
+ - 若要分析的檔案有兩個以上，請將檔案彙整為一個資料夾，在 ``-i`` 輸入資料夾路徑
+ - 複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
  - 終端機不接受快捷鍵指令，請使用滑鼠貼上
 
 ## 分析報告
@@ -39,5 +39,5 @@ kmerfinder_cmd.py -i infolder -o outfolder
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4ODU0Nzk0XX0=
+eyJoaXN0b3J5IjpbMTA1Mzk4Nzc1M119
 -->
