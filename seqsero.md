@@ -4,9 +4,8 @@
 
 ## 開啟終端機
 
- 1. 進入程式所在的資料夾中
- 2. 在資料夾的在空白處點擊右鍵，開啟右鍵選單
- 32. 選擇 **在此處開啟終端機**
+ 1. 在空白處點擊右鍵，開啟右鍵選單
+ 2. 選擇 **在此處開啟終端機**
 
 ## 啟動程式
 在終端機中輸入
@@ -32,6 +31,6 @@ seqsero_cmd.py -i infolder -o outfolder -m 4
 -   複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
 -   終端機不接受快捷鍵指令，請使用滑鼠貼上
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY2Mjg0MjUsLTE5MTMxODQ0MzcsNz
-k1NDU5MTY1XX0=
+eyJoaXN0b3J5IjpbLTMzMDgxNTQsLTE5MTMxODQ0MzcsNzk1ND
+U5MTY1XX0=
 -->
