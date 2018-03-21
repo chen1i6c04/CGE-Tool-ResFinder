@@ -18,6 +18,11 @@ kmerfinder_cmd.py [參數]
 ```
 
 ### 範例
+
+```
+kmerfinder_cmd.py -i file.fa -o outfolder
+```
+
 ```
 kmerfinder_cmd.py -i infolder -o outfolder
 ```
@@ -39,5 +44,5 @@ kmerfinder_cmd.py -i infolder -o outfolder
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mzk4Nzc1M119
+eyJoaXN0b3J5IjpbMTA4MTQzMzAxNV19
 -->
