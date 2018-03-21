@@ -37,7 +37,9 @@ seqsero_cmd.py -i infolder -o outfolder -m 4
 
 # 分析結果
 
+1. 所有檔案的分析結果會彙整為文件`total_report.csv`，儲存在輸出的資料夾下
+2. 在輸出資料夾裡，有以各個檔案為名的資料夾，內有詳細的結果報告
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwOTU5MDEyLC0xOTEzMTg0NDM3LDc5NT
+eyJoaXN0b3J5IjpbNjU1NDY2MjI0LC0xOTEzMTg0NDM3LDc5NT
 Q1OTE2NV19
 -->
