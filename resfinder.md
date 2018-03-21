@@ -30,9 +30,9 @@ resfinder_cmd.py -i infolder -o outfolder -k 95 -l 60
 ```
 ### 注意事項
 
- - 若要分析的檔案有兩個以上，請將檔案彙整為一個**資料夾**，在 ``-i`` 輸入**資料夾路徑**
+ - 若要分析的檔案有兩個以上，請將檔案彙整為一個資料夾，在 ``-i`` 輸入資料夾路徑
  - 若無設定參數 ``-k`` 和 ``-l`` 的值，則使用預設的數字為設定值
- - 複製檔案或資料夾並在終端機中貼上，即可獲得**資料夾路徑**
+ - 複製檔案或資料夾並在終端機中貼上，即可獲得檔案或資料夾的路徑
  - 終端機不接受快捷鍵指令，請使用滑鼠貼上
 
 ## 分析報告
@@ -44,12 +44,12 @@ resfinder_cmd.py -i infolder -o outfolder -k 95 -l 60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDUxMjE1NiwyMTI0NTU0MTg0LC0xMD
-IyMzQ5NjU1LDI0NjE5Mjk1MCwtNDg1MzU0MjEsMjAxNzI3MTY0
-OCwtMTQ0NzkzMDE3MSwtMTUwMTcyMjI1MywtMjEwMTIwOTk3OS
-wtMTE2MjIwODc5MSw0NDQzNzIwNTQsLTMyODExMzE4LDc3MDMz
-Njc4NiwxNDk0NjcwNTgwLC02MTgzMTc0NjIsNTYwNDUzNjU5LC
-0xMzcyMDE4NTM3LC0xMjM3OTY3MTI5LC04NTc1MDE2NzMsLTE0
-MzQ1MzM4NjksLTE0NDUxMTgzNDYsMTE4ODE4NDgyLDExODM3MD
-I1MTgsMTI5ODY1NzUyNV19
+eyJoaXN0b3J5IjpbLTE0Mjc1NDUxMTAsMjEyNDU1NDE4NCwtMT
+AyMjM0OTY1NSwyNDYxOTI5NTAsLTQ4NTM1NDIxLDIwMTcyNzE2
+NDgsLTE0NDc5MzAxNzEsLTE1MDE3MjIyNTMsLTIxMDEyMDk5Nz
+ksLTExNjIyMDg3OTEsNDQ0MzcyMDU0LC0zMjgxMTMxOCw3NzAz
+MzY3ODYsMTQ5NDY3MDU4MCwtNjE4MzE3NDYyLDU2MDQ1MzY1OS
+wtMTM3MjAxODUzNywtMTIzNzk2NzEyOSwtODU3NTAxNjczLC0x
+NDM0NTMzODY5LC0xNDQ1MTE4MzQ2LDExODgxODQ4MiwxMTgzNz
+AyNTE4LDEyOTg2NTc1MjVdfQ==
 -->
