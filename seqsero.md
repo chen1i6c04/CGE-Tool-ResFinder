@@ -33,8 +33,11 @@ seqsero_cmd.py -i infolder -o outfolder -m 4
 
 -   請將檔案彙整為一個**資料夾**，在  `-i`  輸入**資料夾路徑**
 -   複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
--   終端機不接受快捷鍵指令，請使用滑鼠貼上
+-   終端機不接受鍵盤快捷鍵指令，請使用滑鼠貼上
+
+# 分析結果
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg2Njc1NTQsLTE5MTMxODQ0MzcsNz
-k1NDU5MTY1XX0=
+eyJoaXN0b3J5IjpbMjUwOTU5MDEyLC0xOTEzMTg0NDM3LDc5NT
+Q1OTE2NV19
 -->
