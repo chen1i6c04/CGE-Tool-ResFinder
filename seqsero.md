@@ -31,7 +31,7 @@ seqsero_cmd.py -i infolder -o outfolder -m 4
 
 ### 注意事項
 
--   請將檔案彙整為一個**資料夾**，在  `-i`  輸入**資料夾路徑**
+-   若要分析的檔案有兩個以上，請將檔案彙整為一個資料夾，在 ``-i`` 輸入資料夾路徑
 -   複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
 -   終端機不接受鍵盤快捷鍵指令，請使用滑鼠貼上
 
@@ -40,6 +40,6 @@ seqsero_cmd.py -i infolder -o outfolder -m 4
 1. 所有檔案的分析結果會彙整為文件`total_report.csv`，儲存在輸出的資料夾下
 2. 在輸出資料夾裡，有以各個檔案為名的資料夾，內有詳細的結果報告
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1NDY2MjI0LC0xOTEzMTg0NDM3LDc5NT
+eyJoaXN0b3J5IjpbODk1NjE4MTEyLC0xOTEzMTg0NDM3LDc5NT
 Q1OTE2NV19
 -->
