@@ -8,7 +8,9 @@
  2. 選擇 **在此處開啟終端機**
 
 ## 啟動程式
+
 在終端機中輸入
+
 ```
 seqsero_cmd.py [參數]
 
@@ -16,21 +18,23 @@ seqsero_cmd.py [參數]
 	-i 輸入文件的路徑
 	-o 分析結果的儲存路徑
 	-m 依照要分析檔案的格式輸入 [1, 2, 3, 4]
-	   1 pair-end reads, interleaved
-	   2 pair-end reads, seperated
-	   3 single-end reads
-	   4 assembly
+	   1 -pair-end reads, interleaved
+	   2 -pair-end reads, seperated
+	   3 -single-end reads
+	   4 -assembly
 ```
 ### 範例
+
 ```
 seqsero_cmd.py -i infolder -o outfolder -m 4
 ```
+
 ### 注意事項
 
 -   請將檔案彙整為一個**資料夾**，在  `-i`  輸入**資料夾路徑**
 -   複製資料夾並在終端機中貼上，即可獲得**資料夾路徑**
 -   終端機不接受快捷鍵指令，請使用滑鼠貼上
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDgxNTQsLTE5MTMxODQ0MzcsNzk1ND
-U5MTY1XX0=
+eyJoaXN0b3J5IjpbODQ4OTAwNDg2LC0xOTEzMTg0NDM3LDc5NT
+Q1OTE2NV19
 -->
