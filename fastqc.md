@@ -22,12 +22,12 @@ fastqc_cmd.py [設定參數]
 ### 範例
 
 ```
-fastqc_cmd.py -i folder_of_file -o outfolder
+fastqc_cmd.py -i infolder -o outfolder
 ```
 
 ### 注意事項
 
 請將要分析的檔案放在同一個資料夾下，在參數``-i``輸入**資料夾路徑**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5OTIzMDk1LDY1ODg4OTk1OF19
+eyJoaXN0b3J5IjpbMTE2OTEzNDg3MSw2NTg4ODk5NThdfQ==
 -->
