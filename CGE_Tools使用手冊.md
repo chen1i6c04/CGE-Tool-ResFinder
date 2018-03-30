@@ -28,6 +28,8 @@
 ## 路徑
 
 簡單來說就是檔案所在的位置
+圖中圈起來的地方就是目前資料夾的路徑
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI2Njg3NTBdfQ==
+eyJoaXN0b3J5IjpbMTk5MjEzMjkzOF19
 -->
