@@ -27,7 +27,7 @@
 
 ## 路徑
 
-
+簡單來說就是檔案所在的位置
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzk5MTA5Nl19
+eyJoaXN0b3J5IjpbLTExODI2Njg3NTBdfQ==
 -->
