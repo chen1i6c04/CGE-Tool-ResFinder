@@ -32,11 +32,17 @@
  
  ![enter image description here](https://lh3.googleusercontent.com/tNtKJEIJZ__zVevXCDzVDoSDcAA_BjF_8tIs2hfkIhLYL28mZVcmGC7m9a4u73eqOq6J-EPnsTMe)
 
+## 開啟終端機
+
+
+
 ## 路徑
 
 簡單來說就是檔案所在的位置
 圖中圈起來的地方就是目前資料夾的路徑
 ![enter image description here](https://lh3.googleusercontent.com/chzFp9IDiHPljFNOzTTtZqQvgOcuH02D0Pp3NPF46p4e3qBAFaXJsVKeIMRGbk4ZLWGf8V78eDpi)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDgzMzI5N119
+eyJoaXN0b3J5IjpbMTg2Mzk4MzU3MV19
 -->
