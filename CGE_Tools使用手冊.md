@@ -25,6 +25,9 @@
  5. 在使用者名稱輸入 **centrallab**，密碼輸入 **24755118**
  ![enter image description here](https://lh3.googleusercontent.com/tNtKJEIJZ__zVevXCDzVDoSDcAA_BjF_8tIs2hfkIhLYL28mZVcmGC7m9a4u73eqOq6J-EPnsTMe)
 
+## 路徑
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTQyMDA0MF19
+eyJoaXN0b3J5IjpbLTYwMzk5MTA5Nl19
 -->
