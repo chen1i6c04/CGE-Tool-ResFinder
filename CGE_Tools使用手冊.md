@@ -1,6 +1,6 @@
 # CGE Tools 使用手冊
 
-## 遠端連線
+## 遠端桌面連線
 
  1. 在**開始**功能表搜尋**遠端桌面連線**，並啟動
 ![enter image description here](https://lh3.googleusercontent.com/yezxp7ccCiinmOJ2VF_j49AyxlXHVubJt_p00BVajSTOG2ZW_scZ-aoplqpCPiddykCYaZDazotY)
@@ -26,5 +26,5 @@
  ![enter image description here](https://lh3.googleusercontent.com/tNtKJEIJZ__zVevXCDzVDoSDcAA_BjF_8tIs2hfkIhLYL28mZVcmGC7m9a4u73eqOq6J-EPnsTMe)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzgxMjE5NF19
+eyJoaXN0b3J5IjpbLTM4MTQyMDA0MF19
 -->
