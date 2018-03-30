@@ -29,7 +29,7 @@
 
 簡單來說就是檔案所在的位置
 圖中圈起來的地方就是目前資料夾的路徑
-
+![enter image description here](https://lh3.googleusercontent.com/chzFp9IDiHPljFNOzTTtZqQvgOcuH02D0Pp3NPF46p4e3qBAFaXJsVKeIMRGbk4ZLWGf8V78eDpi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjEzMjkzOF19
+eyJoaXN0b3J5IjpbMTg1MjgxODA3M119
 -->
