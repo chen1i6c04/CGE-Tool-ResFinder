@@ -35,7 +35,8 @@
 ## 開啟終端機
 
  1. 在任意空白處點擊滑鼠右鍵，開啟右鍵選單
- 2. 1.  選擇  **在此處開啟終端機**
+
+ 2.  選擇  **在此開啟終端機**
 
 ## 路徑
 
@@ -44,6 +45,7 @@
 ![enter image description here](https://lh3.googleusercontent.com/chzFp9IDiHPljFNOzTTtZqQvgOcuH02D0Pp3NPF46p4e3qBAFaXJsVKeIMRGbk4ZLWGf8V78eDpi)
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTIwNDU0NF19
+eyJoaXN0b3J5IjpbMTEwMTM0MTMxNF19
 -->
