@@ -7,7 +7,8 @@
 ![enter image description here](https://lh3.googleusercontent.com/yezxp7ccCiinmOJ2VF_j49AyxlXHVubJt_p00BVajSTOG2ZW_scZ-aoplqpCPiddykCYaZDazotY)
  
  2. 輸入位置 「192.168.30.237」，連線
- ![enter image description here](https://lh3.googleusercontent.com/u8G9VUnTIgLVJ6zjg6n74Ew7KXhEH9H0VValCJnDyZTnOESK1eBmxPeFRZhUgmliw1LLzn_aQLHO)
+ 
+![enter image description here](https://lh3.googleusercontent.com/u8G9VUnTIgLVJ6zjg6n74Ew7KXhEH9H0VValCJnDyZTnOESK1eBmxPeFRZhUgmliw1LLzn_aQLHO)
  
  3. 進入Linux
  
@@ -33,5 +34,5 @@
 圖中圈起來的地方就是目前資料夾的路徑
 ![enter image description here](https://lh3.googleusercontent.com/chzFp9IDiHPljFNOzTTtZqQvgOcuH02D0Pp3NPF46p4e3qBAFaXJsVKeIMRGbk4ZLWGf8V78eDpi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY2NTM0MzddfQ==
+eyJoaXN0b3J5IjpbMzg2NTAwOTddfQ==
 -->
